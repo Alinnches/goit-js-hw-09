@@ -1,0 +1,1 @@
+h1{margin-left:40px}ul{list-style:none;display:flex;flex-direction:column;gap:15px}li{background-color:green;width:50px;padding:15px;border:none;border-radius:25px;cursor:pointer}li:hover,li:focus{background-color:#074709;transition:.25s cubic-bezier(.4,0,.2,1)}li,a{text-decoration:none;text-align:center;color:#faebd7}
