@@ -10,5 +10,5 @@ import{S as n}from"./assets/vendor-CgTBfC_f.js";(function(){const t=document.cre
     />
   </a>
 </li>
-`).join("");s.innerHTML=l;new n(".gallery a",{captionsData:"alt",captionDelay:250});
+`).join("");s.innerHTML=l;const h=new n(".gallery a",{captionsData:"alt",captionDelay:250});h.on("shown.simplelightbox",function(){document.querySelector(".sl-wrapper").style.background="rgba(46, 47, 66, 0.8)"});
 //# sourceMappingURL=1-gallery.js.map
